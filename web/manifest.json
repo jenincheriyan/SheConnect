@@ -1,0 +1,12 @@
+{
+    "name": "SheConnect",
+    "short_name": "SheConnect",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F7F5FC",
+    "theme_color": "#7C4DFF",
+    "description": "Connect, Learn, Grow — a community platform for women in STEM.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": []
+}

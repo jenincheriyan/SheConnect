@@ -1,0 +1,34 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE files
+.idea/
+.vscode/
+
+# Android Studio
+*.iml
+
+# Flutter generated files
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+
+# Dart
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: Generated web files
+build/web/
+
+# Coverage
+coverage/
+
+# Flutter version file
+.flutter-version
